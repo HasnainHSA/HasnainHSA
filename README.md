@@ -27,7 +27,7 @@
 <br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainhsa&show_icons=true&locale=en&layout=compact" alt="hasnainhsa" /><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainhsa&show_icons=true&locale=en&layout=compact" alt="hasnainhsa" /><br><br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainhsa&show_icons=true&locale=en" alt="hasnainhsa" /><br><br>
 
