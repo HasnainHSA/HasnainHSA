@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hasnain.hsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasnain.hsa" height="30" width="40" /></a>
+<a href="https://twitter.com/Hasnain76006825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasnain.hsa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:18345457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18345457" height="30" width="40" /></a>
 <a href="https://codesandbox.com/hasnainsaleem.hsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hasnainsaleem.hsa" height="30" width="40" /></a>
 <a href="https://instagram.com/hasnainsaleem6136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasnainsaleem6136" height="30" width="40" /></a>
